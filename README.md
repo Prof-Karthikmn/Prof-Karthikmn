@@ -4,7 +4,7 @@ I'm an Assistant Professor in **Computer Science and Design** at the **Universit
 I love teaching, mentoring, and building tools that help students and educators grow together.
 
 ---
-
+ 
 ## I’m interested in:
 - Embedded Systems and Computer Architecture  
 - Full Stack Development (Django, React)  
