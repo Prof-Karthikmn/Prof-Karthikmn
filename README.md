@@ -24,7 +24,7 @@ I love teaching, mentoring, and building tools that help students and educators 
 
 ---
 
-## 💼 Work Experience:
+## Work Experience:
 - **Assistant Professor**, *University of Mysore – School of Engineering*  
   *Oct 2024 – Present*  
   Teaching undergraduate courses in CS and Electronics, mentoring students in research projects, and coordinating department-level training and placement activities.
